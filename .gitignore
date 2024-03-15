@@ -1,0 +1,10 @@
+__pycache__/
+Parte_2_examen/consumir_api/consumir_api/migrations/**
+Parte_2_examen/consumir_api/usuario/migrations/**
+Parte_2_examen/consumir_api/consumir_api/__pycache__/
+Parte_2_examen/consumir_api/usuario/__pycache__/
+**/migrations/**
+**/**/migrations/**
+**/migrations/__init__.py
+**/**/migrations/__init__.py
+
